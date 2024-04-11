@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = letshare_frontend
+	url = https://github.com/wv3ntlyk/letshare_frontend.git
+[submodule "backend"]
+	path = letshare_backend
+	url = https://github.com/wv3ntlyk/letshare_backend.git
